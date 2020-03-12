@@ -65,3 +65,7 @@ end
 def retrieve_first_element_from_array(arr)
   arr.first 
 end 
+
+def retrieve_last_element_from_array(array)
+  arr.last 
+end 
