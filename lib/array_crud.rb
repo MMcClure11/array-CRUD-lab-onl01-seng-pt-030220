@@ -34,6 +34,6 @@
 #   array[-1]
 # end
 
-def create_an_empty_array(array)
-  array = []
+def create_an_empty_array
+  []
 end 
