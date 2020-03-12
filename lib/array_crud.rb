@@ -63,5 +63,5 @@ def retrieve_element_from_index(array, i)
 end 
 
 def retrieve_first_element_from_array_element(arr)
-  arr.first 
+  arr[0]
 end 
